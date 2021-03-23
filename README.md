@@ -1,2 +1,2 @@
 # awesome-oneliners
-This repo contains best one-liners which can be handful 
+This repo contains one-liners which can be handful while doing daily work in CLI.
